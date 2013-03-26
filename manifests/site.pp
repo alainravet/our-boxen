@@ -106,11 +106,11 @@ node default {
   
   include mongodb
   include redis
-#   include elasticsearch
-#   include phantomjs
-#   include wget
-#   include memcached
-#   include memcached::lib
+  include elasticsearch
+# include phantomjs	=> error
+  include wget
+  include memcached
+  include memcached::lib
 #   include appcleaner
 # # include kindle	MISSING TAG
 #   include imagemagick
