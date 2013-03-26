@@ -80,5 +80,5 @@ github 'java', '1.0.6'
 github 'googleearth', '1.0.0'
 github 'wkhtmltopdf', '1.0.0'
 
-# github "sysctl",         "1.0.0" # added for postgresql
-# # github 'postgresql', 	'1.0.0'
+github "sysctl",    	"1.0.0" # required to fix later error
+github 'postgresql', 	'1.0.0'

@@ -130,8 +130,8 @@ node default {
   include googleearth
   include wkhtmltopdf
 
-#   # include postgresql
-#   # postgresql::db { 'mydb': }
+  include postgresql
+  postgresql::db { 'mydb': }
 
 
 }

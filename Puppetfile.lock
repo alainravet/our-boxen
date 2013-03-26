@@ -164,6 +164,11 @@ GITHUBTARBALL
     pkgconfig (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-postgresql
+  specs:
+    postgresql (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-redis
   specs:
     redis (1.0.0)
@@ -202,6 +207,11 @@ GITHUBTARBALL
   remote: boxen/puppet-swig
   specs:
     swig (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sysctl
+  specs:
+    sysctl (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-textmate
@@ -284,6 +294,7 @@ DEPENDENCIES
   pcre (= 1.0.0)
   phantomjs (= 1.0.0)
   pkgconfig (= 1.0.0)
+  postgresql (= 1.0.0)
   redis (= 1.0.0)
   ruby (= 3.1.0)
   rubymine (= 1.0.1)
@@ -293,6 +304,7 @@ DEPENDENCIES
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
   swig (= 1.0.0)
+  sysctl (= 1.0.0)
   textmate (= 1.1.0)
   transmission (= 1.0.0)
   virtualbox (= 1.0.1)
