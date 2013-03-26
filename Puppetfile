@@ -84,4 +84,5 @@ github "sysctl",    	"1.0.0" # required to fix later error
 github 'postgresql', 	'1.0.0'
 
 github 'virtualbox',	'1.0.1'
+github 'vagrant',		'2.0.2'
 
