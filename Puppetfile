@@ -33,3 +33,9 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+# alainravet added :
+github "textmate", "1.1.0"
+# github "rubymine", "1.0.1"
+
+
