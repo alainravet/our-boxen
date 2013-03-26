@@ -115,9 +115,9 @@ node default {
 # # include kindle	MISSING TAG
 #   include imagemagick
   include skype
-#   include virtualbox
-#   include caffeine
-#   include emacs
+  include virtualbox
+  include caffeine
+  include emacs
 #   include ghostscript
 #   include graphviz
 #   include solr
