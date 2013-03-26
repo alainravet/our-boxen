@@ -49,6 +49,11 @@ GITHUBTARBALL
     ruby (3.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-rubymine
+  specs:
+    rubymine (1.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -80,6 +85,7 @@ DEPENDENCIES
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   ruby (= 3.1.0)
+  rubymine (= 1.0.1)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
   textmate (= 1.1.0)
