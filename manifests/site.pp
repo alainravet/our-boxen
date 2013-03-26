@@ -89,4 +89,18 @@ node default {
   # alainravet
   include textmate
   include rubymine
+  include gitx
+  include chrome
+  include hub
+  include macvim
+  include onepassword
+  include sizeup
+  include vlc
+  include divvy
+  include dropbox
+  include iterm2::stable
+  
+
+
+
 }

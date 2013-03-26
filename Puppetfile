@@ -37,5 +37,13 @@ github "sudo",     "1.0.0"
 # alainravet added :
 github "textmate", "1.1.0"
 github "rubymine", "1.0.1"
-
-
+github 'gitx'    , '1.2.0'
+github 'chrome'    , '1.1.0'
+github 'hub'    , '1.0.0'
+github 'macvim'    , '1.0.0'
+github 'onepassword'    , '1.0.0'
+github 'sizeup'         , '1.0.0'
+github 'vlc'            , '1.0.0'
+github 'divvy'    , '1.0.1'
+github 'dropbox'    , '1.1.0'
+github 'iterm2', '1.0.2'
