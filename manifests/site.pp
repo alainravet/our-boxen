@@ -117,8 +117,10 @@ node default {
   include virtualbox
   include caffeine
   include emacs
-  include autoconf
-# include ghostscript
+
+  include autoconf	# required to fix later error
+  include libtool	# required to fix later error
+  include ghostscript
  # include graphviz
  include solr
   include transmission

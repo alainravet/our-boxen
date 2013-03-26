@@ -56,7 +56,7 @@ github 'wget', 			'1.0.0'
 github 'memcached', 	'1.2.0'
 github 'appcleaner', 	'1.0.0'
 
-github "xquartz", 		"1.0.0"
+github "xquartz", 		"1.0.0"	# required to fix later error
 github 'imagemagick', 	'1.2.0'
 
 github 'skype', 		'1.0.2'
@@ -64,9 +64,9 @@ github 'virtualbox', 	'1.0.1'
 github 'caffeine', 		'1.0.0'
 github 'emacs', 		'1.0.0'
 
-github 'autoconf', 		'1.0.0'
-
-# github 'ghostscript', 	'1.0.0'
+github 'autoconf', 		'1.0.0'	# required to fix later error
+github 'libtool', 	    '1.0.0'	# required to fix later error
+github 'ghostscript', 	'1.0.0'
 
 # github 'graphviz', 		'1.0.0'
 github 'solr', 			'1.0.0'
