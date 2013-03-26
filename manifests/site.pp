@@ -112,8 +112,7 @@ node default {
   include memcached
   include memcached::lib
   include appcleaner
-# # include kindle	MISSING TAG
-#   include imagemagick
+  include imagemagick
   include skype
   include virtualbox
   include caffeine

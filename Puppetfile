@@ -55,8 +55,10 @@ github 'phantomjs', 	'1.0.0'
 github 'wget', 			'1.0.0'
 github 'memcached', 	'1.2.0'
 github 'appcleaner', 	'1.0.0'
-# # github 'kindle', '???' MISSING TAG
-# github 'imagemagick', 	'1.2.0'
+
+github "xquartz", 		"1.0.0"
+github 'imagemagick', 	'1.2.0'
+
 github 'skype', 		'1.0.2'
 github 'virtualbox', 	'1.0.1'
 github 'caffeine', 		'1.0.0'

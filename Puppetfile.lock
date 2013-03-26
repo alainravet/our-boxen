@@ -74,6 +74,11 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-imagemagick
+  specs:
+    imagemagick (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-iterm2
   specs:
     iterm2 (1.0.2)
@@ -194,6 +199,11 @@ GITHUBTARBALL
     wkhtmltopdf (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-xquartz
+  specs:
+    xquartz (1.0.0)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -220,6 +230,7 @@ DEPENDENCIES
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   hub (= 1.0.0)
+  imagemagick (= 1.2.0)
   inifile (= 0.9.0)
   iterm2 (= 1.0.2)
   java (= 1.0.6)
@@ -246,4 +257,5 @@ DEPENDENCIES
   vlc (= 1.0.0)
   wget (= 1.0.0)
   wkhtmltopdf (= 1.0.0)
+  xquartz (= 1.0.0)
 
