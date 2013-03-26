@@ -99,8 +99,35 @@ node default {
   include divvy
   include dropbox
   include iterm2::stable
-  
 
+  include mysql
+  mysql::db { 'mydb': }
+  
+  
+#   include mongodb
+#   include redis
+#   include elasticsearch
+#   include phantomjs
+#   include wget
+#   include memcached
+#   include memcached::lib
+#   include appcleaner
+# # include kindle	MISSING TAG
+#   include imagemagick
+#   include skype
+#   include virtualbox
+#   include caffeine
+#   include emacs
+#   include ghostscript
+#   include graphviz
+#   include solr
+#   include transmission
+#   include java
+#   include googleearth
+#   include wkhtmltopdf
+# 
+#   # include postgresql
+#   # postgresql::db { 'mydb': }
 
 
 }

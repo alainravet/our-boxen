@@ -35,15 +35,39 @@ github "sudo",     "1.0.0"
 # https://github.com/boxen.
 
 # alainravet added :
-github "textmate", "1.1.0"
-github "rubymine", "1.0.1"
-github 'gitx'    , '1.2.0'
-github 'chrome'    , '1.1.0'
-github 'hub'    , '1.0.0'
-github 'macvim'    , '1.0.0'
-github 'onepassword'    , '1.0.0'
-github 'sizeup'         , '1.0.0'
-github 'vlc'            , '1.0.0'
-github 'divvy'    , '1.0.1'
-github 'dropbox'    , '1.1.0'
-github 'iterm2', '1.0.2'
+github "textmate", 		"1.1.0"
+github "rubymine", 		"1.0.1"
+github 'gitx'    , 		'1.2.0'
+github 'chrome'    ,    '1.1.0'
+github 'hub'    , 		'1.0.0'
+github 'macvim'    , 	'1.0.0'
+github 'onepassword'  , '1.0.0'
+github 'sizeup'       , '1.0.0'
+github 'vlc'          , '1.0.0'
+github 'divvy'    , 	'1.0.1'
+github 'dropbox'    , 	'1.1.0'
+github 'iterm2', 		'1.0.2'
+github 'mysql', 		'1.0.0'
+# github 'mongodb', 		'1.0.0'
+# github 'redis', 		'1.0.0'
+# github 'elasticsearch', '1.0.0'
+# github 'phantomjs', 	'1.0.0'
+# github 'wget', 			'1.0.0'
+# github 'memcached', 	'1.2.0'
+# github 'appcleaner', 	'1.0.0'
+# # github 'kindle', '???' MISSING TAG
+# github 'imagemagick', 	'1.2.0'
+# github 'skype', 		'1.0.2'
+# github 'virtualbox', 	'1.0.1'
+# github 'caffeine', 		'1.0.0'
+# github 'emacs', 		'1.0.0'
+# github 'ghostscript', 	'1.0.0'
+# github 'graphviz', 		'1.0.0'
+# github 'solr', 			'1.0.0'
+# github 'transmission', '1.0.0'
+# github 'java', '1.0.6'
+# github 'googleearth', '1.0.0'
+# github 'wkhtmltopdf', '1.0.0'
+# 
+# github "sysctl",         "1.0.0" # added for postgresql
+# # github 'postgresql', 	'1.0.0'
