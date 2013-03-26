@@ -51,7 +51,7 @@ github 'mysql', 		'1.0.0'
 github 'mongodb', 		'1.0.0'
 github 'redis', 		'1.0.0'
 github 'elasticsearch', '1.0.0'
-# github 'phantomjs', 	'1.0.0'  => ERROR
+github 'phantomjs', 	'1.0.0'
 github 'wget', 			'1.0.0'
 github 'memcached', 	'1.2.0'
 github 'appcleaner', 	'1.0.0'

@@ -107,7 +107,7 @@ node default {
   include mongodb
   include redis
   include elasticsearch
-# include phantomjs	=> error
+  include phantomjs
   include wget
   include memcached
   include memcached::lib

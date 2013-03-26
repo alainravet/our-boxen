@@ -124,6 +124,11 @@ GITHUBTARBALL
     onepassword (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-phantomjs
+  specs:
+    phantomjs (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-redis
   specs:
     redis (1.0.0)
@@ -226,6 +231,7 @@ DEPENDENCIES
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   onepassword (= 1.0.0)
+  phantomjs (= 1.0.0)
   redis (= 1.0.0)
   ruby (= 3.1.0)
   rubymine (= 1.0.1)
