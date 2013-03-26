@@ -123,9 +123,9 @@ node default {
  include solr
   include transmission
   include java
-#   include googleearth
-#   include wkhtmltopdf
-# 
+  include googleearth
+  include wkhtmltopdf
+
 #   # include postgresql
 #   # postgresql::db { 'mydb': }
 

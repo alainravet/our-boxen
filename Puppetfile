@@ -66,8 +66,8 @@ github 'emacs', 		'1.0.0'
 github 'solr', 			'1.0.0'
 github 'transmission', '1.0.0'
 github 'java', '1.0.6'
-# github 'googleearth', '1.0.0'
-# github 'wkhtmltopdf', '1.0.0'
-# 
+github 'googleearth', '1.0.0'
+github 'wkhtmltopdf', '1.0.0'
+
 # github "sysctl",         "1.0.0" # added for postgresql
 # # github 'postgresql', 	'1.0.0'
