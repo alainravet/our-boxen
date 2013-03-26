@@ -139,6 +139,11 @@ GITHUBTARBALL
     skype (1.0.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-solr
+  specs:
+    solr (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -204,6 +209,7 @@ DEPENDENCIES
   rubymine (= 1.0.1)
   sizeup (= 1.0.0)
   skype (= 1.0.2)
+  solr (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
   textmate (= 1.1.0)
