@@ -36,6 +36,6 @@ github "sudo",     "1.0.0"
 
 # alainravet added :
 github "textmate", "1.1.0"
-# github "rubymine", "1.0.1"
+github "rubymine", "1.0.1"
 
 
