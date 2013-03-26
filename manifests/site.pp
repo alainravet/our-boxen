@@ -88,4 +88,5 @@ node default {
 
   # alainravet
   include textmate
+  include rubymine
 }
