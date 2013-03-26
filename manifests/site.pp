@@ -121,8 +121,8 @@ node default {
 # include ghostscript
  # include graphviz
  include solr
-#   include transmission
-#   include java
+  include transmission
+  include java
 #   include googleearth
 #   include wkhtmltopdf
 # 
