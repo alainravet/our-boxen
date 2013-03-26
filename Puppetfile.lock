@@ -308,6 +308,7 @@ DEPENDENCIES
   textmate (= 1.1.0)
   transmission (= 1.0.0)
   virtualbox (= 1.0.1)
+  virtualbox (= 1.0.1)
   vlc (= 1.0.0)
   wget (= 1.0.0)
   wkhtmltopdf (= 1.0.0)

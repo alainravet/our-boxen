@@ -133,5 +133,6 @@ node default {
   include postgresql
   postgresql::db { 'mydb': }
 
+  include virtualbox
 
 }
