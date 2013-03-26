@@ -74,6 +74,11 @@ GITHUBTARBALL
     googleearth (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-graphviz
+  specs:
+    graphviz (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-homebrew
   specs:
     homebrew (1.1.2)
@@ -144,9 +149,19 @@ GITHUBTARBALL
     onepassword (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-pcre
+  specs:
+    pcre (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-phantomjs
   specs:
     phantomjs (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pkgconfig
+  specs:
+    pkgconfig (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-redis
@@ -182,6 +197,11 @@ GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-swig
+  specs:
+    swig (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-textmate
@@ -244,6 +264,7 @@ DEPENDENCIES
   git (= 1.0.0)
   gitx (= 1.2.0)
   googleearth (= 1.0.0)
+  graphviz (= 1.0.0)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   hub (= 1.0.0)
@@ -260,7 +281,9 @@ DEPENDENCIES
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   onepassword (= 1.0.0)
+  pcre (= 1.0.0)
   phantomjs (= 1.0.0)
+  pkgconfig (= 1.0.0)
   redis (= 1.0.0)
   ruby (= 3.1.0)
   rubymine (= 1.0.1)
@@ -269,6 +292,7 @@ DEPENDENCIES
   solr (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  swig (= 1.0.0)
   textmate (= 1.1.0)
   transmission (= 1.0.0)
   virtualbox (= 1.0.1)

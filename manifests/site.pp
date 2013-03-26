@@ -121,8 +121,10 @@ node default {
   include autoconf	# required to fix later error
   include libtool	# required to fix later error
   include ghostscript
- # include graphviz
- include solr
+
+  include graphviz
+
+  include solr
   include transmission
   include java
   include googleearth

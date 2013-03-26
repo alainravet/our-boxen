@@ -68,7 +68,12 @@ github 'autoconf', 		'1.0.0'	# required to fix later error
 github 'libtool', 	    '1.0.0'	# required to fix later error
 github 'ghostscript', 	'1.0.0'
 
-# github 'graphviz', 		'1.0.0'
+
+github 'pkgconfig',		'1.0.0'	# required to fix later error
+github 'swig',     		'1.0.0'	# required to fix later error
+github 'pcre',     		'1.0.0'	# required to fix later error
+github 'graphviz', 		'1.0.0'
+
 github 'solr', 			'1.0.0'
 github 'transmission', '1.0.0'
 github 'java', '1.0.6'
