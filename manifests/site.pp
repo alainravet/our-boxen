@@ -111,7 +111,7 @@ node default {
   include wget
   include memcached
   include memcached::lib
-#   include appcleaner
+  include appcleaner
 # # include kindle	MISSING TAG
 #   include imagemagick
 #   include skype

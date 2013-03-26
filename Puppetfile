@@ -54,7 +54,7 @@ github 'elasticsearch', '1.0.0'
 # github 'phantomjs', 	'1.0.0'  => ERROR
 github 'wget', 			'1.0.0'
 github 'memcached', 	'1.2.0'
-# github 'appcleaner', 	'1.0.0'
+github 'appcleaner', 	'1.0.0'
 # # github 'kindle', '???' MISSING TAG
 # github 'imagemagick', 	'1.2.0'
 # github 'skype', 		'1.0.2'
