@@ -114,7 +114,7 @@ node default {
   include appcleaner
 # # include kindle	MISSING TAG
 #   include imagemagick
-#   include skype
+  include skype
 #   include virtualbox
 #   include caffeine
 #   include emacs
