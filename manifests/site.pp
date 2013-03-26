@@ -104,8 +104,8 @@ node default {
   mysql::db { 'mydb': }
   
   
-#   include mongodb
-#   include redis
+  include mongodb
+  include redis
 #   include elasticsearch
 #   include phantomjs
 #   include wget

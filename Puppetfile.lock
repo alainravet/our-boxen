@@ -59,6 +59,11 @@ GITHUBTARBALL
     macvim (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mongodb
+  specs:
+    mongodb (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-mysql
   specs:
     mysql (1.0.0)
@@ -82,6 +87,11 @@ GITHUBTARBALL
   remote: boxen/puppet-onepassword
   specs:
     onepassword (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-redis
+  specs:
+    redis (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-ruby
@@ -138,11 +148,13 @@ DEPENDENCIES
   inifile (= 0.9.0)
   iterm2 (= 1.0.2)
   macvim (= 1.0.0)
+  mongodb (= 1.0.0)
   mysql (= 1.0.0)
   nginx (= 1.1.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   onepassword (= 1.0.0)
+  redis (= 1.0.0)
   ruby (= 3.1.0)
   rubymine (= 1.0.1)
   sizeup (= 1.0.0)
