@@ -52,7 +52,7 @@ class people::alainravet::osx {
     ensure => present,
     domain => 'NSGlobalDomain',
     key    => 'KeyRepeat',
-    value  => 2,  # was 0.01, much too fast
+    value  => 3,  # was 0.01, much too fast
     type   => int,
     user   => $::boxen_user;
   }

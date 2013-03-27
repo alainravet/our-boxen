@@ -143,5 +143,10 @@ node default {
   vagrant::box { 'squeeze64/vmware_fusion':
     source => 'https://s3.amazonaws.com/github-ops/vagrant/squeeze64-6.0.7-vmware_fusion.box'
   }
+  
+    #  see : https://github.com/boxen/puppet-autojump#usage
+  include autojump
+    #  after the install you must add this to .bashrc/.zshrc :
+    #    [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 
 }

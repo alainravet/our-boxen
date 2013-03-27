@@ -86,3 +86,6 @@ github 'postgresql', 	'1.0.0'
 github 'virtualbox',	'1.0.1'
 github 'vagrant',		'2.0.2'
 
+
+github 'autojump',		'1.0.0'
+

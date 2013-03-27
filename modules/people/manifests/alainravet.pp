@@ -46,4 +46,12 @@ class people::alainravet {
     tag           => '1.0.0'
   }
 
+
+  boxen::project { 'autojump':
+    source        => 'boxen/puppet-autojump',
+    tag           => '1.0.0'
+  }
+  # after install you need to add this to .bash_profile/.zshrc :
+  # [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
+  
 }

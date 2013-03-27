@@ -9,6 +9,11 @@ GITHUBTARBALL
     autoconf (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-autojump
+  specs:
+    autojump (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (1.2.0)
@@ -266,6 +271,7 @@ GITHUBTARBALL
 DEPENDENCIES
   appcleaner (= 1.0.0)
   autoconf (= 1.0.0)
+  autojump (= 1.0.0)
   boxen (= 1.2.0)
   caffeine (= 1.0.0)
   chrome (= 1.1.0)
