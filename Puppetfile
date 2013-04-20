@@ -89,4 +89,5 @@ github 'vagrant',		'2.0.2'
 
 github 'autojump',		'1.0.0'
 github 'intellij',		'1.1.2'
+github 'tmux',		    '1.0.0'
 

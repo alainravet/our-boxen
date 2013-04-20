@@ -229,6 +229,11 @@ GITHUBTARBALL
     textmate (1.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-tmux
+  specs:
+    tmux (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-transmission
   specs:
     transmission (1.0.0)
@@ -323,6 +328,7 @@ DEPENDENCIES
   swig (= 1.0.0)
   sysctl (= 1.0.0)
   textmate (= 1.1.0)
+  tmux (= 1.0.0)
   transmission (= 1.0.0)
   vagrant (= 2.0.2)
   virtualbox (= 1.0.1)

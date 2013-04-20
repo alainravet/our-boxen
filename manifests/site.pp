@@ -151,5 +151,6 @@ node default {
 
 
   include intellij
+  include tmux
 }
  
