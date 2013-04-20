@@ -149,4 +149,7 @@ node default {
     #  after the install you must add this to .bashrc/.zshrc :
     #    [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 
+
+  include intellij
 }
+ 
