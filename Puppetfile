@@ -65,7 +65,6 @@ github "textmate", 		"1.1.0"
 github "rubymine", 		"1.0.1"
 github 'gitx'    , 		'1.2.0'
 github 'chrome'    ,    '1.1.0'
-github 'hub'    , 		'1.0.0'
 github 'macvim'    , 	'1.0.0'
 github 'onepassword'  , '1.0.0'
 github 'sizeup'       , '1.0.0'
